@@ -1,4 +1,4 @@
-# Tech News
+# AI News
 Daily videos about tech and AI for learning. 
 
 ## Betrayal in OpenAI
